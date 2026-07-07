@@ -1,1 +1,6 @@
 hi iam start writing here to check the go pull in vscode
+
+
+i successfully pulled the modified pro3.txt from github by using go pull.
+
+now iam going to modify something here and push it back to github from vscode...
